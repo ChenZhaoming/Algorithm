@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582878972 source:e:\pku\algorithm\code\bfs-3278\main.cpp
+	<iostream>
+	<queue>
+
